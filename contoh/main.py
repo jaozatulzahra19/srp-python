@@ -1,6 +1,6 @@
 from persegi import Persegi    
 from persegi_controller import PersegiController    
-from contoh.persegi_view import PersegiView 
+from persegi_view import PersegiView 
 
 persegi = Persegi(2)
 penghitung_persegi = PersegiController()
