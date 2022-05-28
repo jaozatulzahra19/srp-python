@@ -1,8 +1,8 @@
 from balok import Balok    
 from balok_controller import BalokController    
-from balok_view import BalokView 
+from balok_view import BalokView  
 
-balok = Balok(2)
+balok = Balok(4)
 penghitung_balok = BalokController()
 penampil_balok = BalokView()  
 
